@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  },
+  "dependencies": {
+    "cypress-plugin-xhr-toggle": "^1.0.0"
+  },
+  "scripts": {
+    "open": "cypress open"
+  }
+}
